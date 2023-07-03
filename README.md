@@ -12,7 +12,7 @@
 
 Hi there, my name is Rohit Kumar Yadav. I am a Programmer and like to solve problems, Currently completed my Bachelor's from MGKVP University, Varanasi Uttar Pradesh . My areas of interest are web Development and software development. Check out my [Linkedin](https://www.linkedin.com/in/Rohityadav2205/) and [Projects]() to learn more about me and my projects.
 
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=Rohityadav2205&repo=Notes-App-using-Flutter)](https://github.com/harshpathakjnp/Notes-App-using-Flutter)
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=Rohityadav2205&repo=Weather)](https://github.com/Rohityadav2205/weather)
 &nbsp; &nbsp;
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=harshpathakjnp&repo=CodeClause-QuizApp-with-Admin-Panel)](https://github.com/harshpathakjnp/CodeClause-QuizApp-with-Admin-Panel)
 &nbsp; &nbsp;
