@@ -10,7 +10,7 @@
 
 ## 👤 About Me
 
-Hi there, my name is Harsh Vardhan. I am a Programmer and like to solve problems, Currently completing my Bachelor's from MGKVP University, Varanasi Uttar Pradesh . My areas of interest are web Development and software development. Check out my [Linkedin](https://in.linkedin.com/in/harshpathakjnp) and [Projects](https://github.com/Harshpathakjnp/CodeClause-QuizApp-with-Admin-Panel) to learn more about me and my projects.
+Hi there, my name is Rohit Kumar Yadav. I am a Programmer and like to solve problems, Currently completed my Bachelor's from MGKVP University, Varanasi Uttar Pradesh . My areas of interest are web Development and software development. Check out my [Linkedin](https://www.linkedin.com/in/Rohityadav2205/) and [Projects]() to learn more about me and my projects.
 
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=harshpathakjnp&repo=Notes-App-using-Flutter)](https://github.com/harshpathakjnp/Notes-App-using-Flutter)
 &nbsp; &nbsp;
@@ -22,16 +22,16 @@ Hi there, my name is Harsh Vardhan. I am a Programmer and like to solve problems
 ## 📇 Social & Contact
 <br>
 <p align="left" >
-<a href="https://twitter.com/harshpathakjnp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshpathakjnp" height="30" width="40" margin: 10 px;/></a>
-<a href="https://linkedin.com/in/harshpathakjnp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshpathakjnp" height="30" width="40" margin: 10 px; /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/17657195/harshpathakjnp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17657195/harshpathakjnp" height="30" width="40" margin: 10 px; /></a>
-<a href="https://fb.com/harshpathakjnp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="harshpathakjnp" height="30" width="40" margin: 10 px; /></a>
-<a href="https://instagram.com/harshpathakjnp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshpathakjnp" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/codextrian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codextrian" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/harshpathakjnp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harshpathakjnp" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/harshpathakjnp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harshpathakjnp" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/harshpathakjnp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshpathakjnp" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/harshpathakjnp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="harshpathakjnp" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/Rohityadav2205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rohityadav2205" height="30" width="40" margin: 10 px; /></a>
+
+
+
+
+
+<a href="https://www.codechef.com/users/Rohityadav2205" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Rohityadav2205" height="30" width="40" /></a>
+
+<a href="https://auth.geeksforgeeks.org/user/rohitkryadav2205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rohitkryada2205" height="30" width="40" /></a>
 </p>
 
 <br>
@@ -42,19 +42,10 @@ Hi there, my name is Harsh Vardhan. I am a Programmer and like to solve problems
 
 ### 👨‍💻 Programming
 
-<div align="left">
-  <a href="https://www.cprogramming.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/c.svg" alt="c" width="40" height="40" /> </a>
-  &nbsp; &nbsp;
-  <a href="https://www.cplusplus.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/cplusplus.svg" alt="cplusplus" width="40" height="40" /> </a>
-  &nbsp; &nbsp;
+
   
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
-  &nbsp; &nbsp;
-  
-  <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>
-  &nbsp; &nbsp;
-  <a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40" /> </a>
-</div>
+ 
+ 
 
 
 
@@ -119,7 +110,6 @@ Hi there, my name is Harsh Vardhan. I am a Programmer and like to solve problems
 </table>
 -->
 
-[![Trophies](https://github-profile-trophy-harshpathakjnp.vercel.app/?username=harshpathakjnp&no-frame=true&no-bg=true&theme=juicyfresh&column=8&margin-w=5&margin-h=5&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
