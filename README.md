@@ -17,7 +17,8 @@ Hi there, my name is Rohit Kumar Yadav. I am a Programmer and like to solve prob
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=Rohityadav2205&repo=Todo-project)](https://github.com/Rohityadav2205/Todo-project)
 &nbsp; &nbsp;
 
-
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=Rohityadav2205&repo=weatherproject)](https://github.com/Rohityadav2205/weatherproject)
+&nbsp; &nbsp;
 
 ## 📇 Social & Contact
 <br>
